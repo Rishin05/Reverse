@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *This class prints string in reverse order
- * @author Rishin Patel
+ * @author Rishin Patel 2022
  */
 public class StringReverse {
 
@@ -17,7 +17,7 @@ public class StringReverse {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a String: ");
         String name=sc.nextLine();
-//String name="Megha";
+//String name="Rishin";
         
         char[] arr=new char[name.length()];//size is length of string
         
