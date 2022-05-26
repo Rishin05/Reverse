@@ -32,7 +32,7 @@ public class StringReverse {
             System.out.print(arr[i]);
         }
         System.out.println("");
-        System.out.println("HELLO");
+        System.out.println("Bye");
     }
 
 }
